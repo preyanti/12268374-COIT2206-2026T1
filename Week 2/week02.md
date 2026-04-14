@@ -21,32 +21,32 @@ In this week, I have worked on two tasks.
 ---
 
 ### Network Topology
-![Network](Setting-IP-12264374-network.png)
+![Network](Setting-IP-12268374-network.png)
 
 ---
 
 ### Host IP Addresses
 #### Host 1
-![Host1](Setting-IP-12264374-host1.png)
+![Host1](Setting-IP-12268374-host1.png)
 
 #### Host 2
-![Host2](Setting-IP-12264374-host2.png)
+![Host2](Setting-IP-12268374-host2.png)
 
 #### Host 3
-![Host3](Setting-IP-12264374-host3.png)
+![Host3](Setting-IP-12268374-host3.png)
 
 #### Host 4
-![Host4](Setting-IP-12264374-host4.png)
+![Host4](Setting-IP-12268374-host4.png)
 
 ---
 
 ### Ping Tests
 
 #### Simple Ping
-![Simple Ping](Ping-Basics-12264374-simple.png)
+![Simple Ping](Ping-Basics-12268374-simple.png)
 
 #### Ping to Wrong IP
-![Ping Error](Ping-Basics-12264374-error.png)
+![Ping Error](Ping-Basics-12268374-error.png)
 
 #### Ping with Options
-![Ping Options](Ping-Basics-12264374-options.png)
+![Ping Options](Ping-Basics-12268374-options.png)
