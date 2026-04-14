@@ -23,13 +23,13 @@
 ### IP Addresses & Routing Tables
 
 - **Host 1**  
-![Host 1](host 1.png)
+![Host 1](host1.png)
 
 - **Host 2**  
-![Host 2](host 2.png)
+![Host 2](host2.png)
 
 - **Host 3**  
-![Host 3](host 3.png)
+![Host 3](host3.png)
 
 - **Router**  
 ![Router](router.png)
